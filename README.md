@@ -45,4 +45,3 @@ Zero-dependency Python CLI for Raspberry Pi homelab container and service health
 - Strengthening Linux, Docker, and networking skills through homelab work
 - Preparing for entry-level IT support, systems, and cloud support roles
 
-<- Match tests to the actual argparse profile refresh: 2026-06-17 -->
