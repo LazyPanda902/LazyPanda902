@@ -1,3 +1,4 @@
+<!-- profile README active -->
 # Ali Bidhendi
 
 Computer Science candidate at The University of Texas at Dallas with hands-on IT support experience across Windows, Microsoft 365, Active Directory, endpoint troubleshooting, and practical automation.
