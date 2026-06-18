@@ -31,6 +31,14 @@ Zero-dependency Python CLI for Raspberry Pi homelab container and service monito
 - Reads local Linux system metrics from `/proc`
 - Tested with 59 passing tests and GitHub Actions CI
 
+### [ticket-triage-assistant](https://github.com/LazyPanda902/ticket-triage-assistant)
+Python CLI for classifying and routing IT support tickets using stdlib-only TF-IDF/cosine-style text matching.
+
+- Classifies incoming tickets by category using a zero-dependency TF-IDF/cosine similarity approach
+- Routes phishing, malware, and suspicious-login tickets through a security-first escalation path
+- Produces text and JSON output with batch statistics for support queue review
+- Tested with 90 passing tests and GitHub Actions CI
+
 ## Technical Focus
 
 - IT support automation
