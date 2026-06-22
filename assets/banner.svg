@@ -20,16 +20,16 @@
   </defs>
 
   <rect width="1200" height="320" rx="26" fill="url(#bg)"/>
-  <path d="M80 250 C220 120, 360 360, 520 180 S830 100, 1120 230" stroke="url(#line)" stroke-width="3" opacity="0.55" filter="url(#glow)"/>
-  <path d="M100 70 H1100" stroke="url(#line)" stroke-width="2" opacity="0.25"/>
-  <path d="M100 250 H1100" stroke="url(#line)" stroke-width="2" opacity="0.25"/>
 
-  <circle cx="980" cy="95" r="60" stroke="#22c55e" stroke-width="3" opacity="0.6"/>
-  <circle cx="1038" cy="178" r="36" stroke="#38bdf8" stroke-width="3" opacity="0.55"/>
-  <circle cx="900" cy="205" r="24" stroke="#a855f7" stroke-width="3" opacity="0.45"/>
+  <path d="M90 245 C250 105, 420 310, 585 160 S855 90, 1120 220" stroke="url(#line)" stroke-width="3" opacity="0.52" filter="url(#glow)"/>
+  <path d="M100 72 H1100" stroke="url(#line)" stroke-width="2" opacity="0.22"/>
+  <path d="M100 250 H1100" stroke="url(#line)" stroke-width="2" opacity="0.18"/>
 
-  <text x="92" y="120" fill="#e5f2ff" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="800">Ali Bidhendi</text>
-  <text x="96" y="165" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">CS @ UT Dallas · IT Support · Homelab Automation</text>
-  <text x="96" y="205" fill="#67e8f9" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="600">Python · Docker · Linux · GitHub Actions · Raspberry Pi</text>
-  <text x="96" y="245" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="18">Building practical tools for support operations, system checks, and automation workflows.</text>
+  <circle cx="960" cy="98" r="58" stroke="#22c55e" stroke-width="3" opacity="0.62"/>
+  <circle cx="1032" cy="178" r="36" stroke="#38bdf8" stroke-width="3" opacity="0.55"/>
+  <circle cx="888" cy="198" r="22" stroke="#a855f7" stroke-width="3" opacity="0.48"/>
+
+  <text x="92" y="123" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="850">Ali Bidhendi</text>
+  <text x="96" y="171" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">CS @ UT Dallas · IT Support · Homelab Automation</text>
+  <text x="96" y="214" fill="#67e8f9" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Python · Docker · Linux · GitHub Actions · Raspberry Pi</text>
 </svg>
