@@ -1,59 +1,71 @@
-<!-- profile README active -->
+<div align="center">
+
 # Ali Bidhendi
 
-Computer Science candidate at The University of Texas at Dallas focused on IT support, systems troubleshooting, Microsoft 365, Active Directory fundamentals, Python automation, Docker, and Raspberry Pi homelab operations.
+### CS @ UT Dallas · IT Support · Homelab Automation · Python · Docker · Linux
 
-I build practical tools that turn real support and sysadmin tasks into repeatable command-line workflows: account audits, authentication-log review, service health checks, and lightweight monitoring.
+I build practical tools for IT support, system health checks, automation workflows, and Raspberry Pi homelab operations.
 
-## Featured Projects
+</div>
 
-### [supportops-toolkit](https://github.com/LazyPanda902/supportops-toolkit)
-Python CLI for IT account auditing and SSH authentication-log analysis.
+---
 
-- Finds risky account patterns in exported user CSV files
-- Detects repeated login failures and brute-force-style activity
-- Produces JSON reports for help desk and junior sysadmin workflows
-- Tested with 51 passing tests and GitHub Actions CI
+## What I’m focused on
 
-### [ad-health-checker](https://github.com/LazyPanda902/ad-health-checker)
-Python CLI for Active Directory-style DNS, Kerberos, LDAP, and service-port health checks.
+- Building Python CLI tools for IT support and infrastructure checks
+- Automating GitHub portfolio maintenance from my Raspberry Pi
+- Running a Docker-based homelab with monitoring, backups, and self-hosted services
+- Improving Linux, networking, CI, and automation skills through real projects
 
-- Runs socket-based checks for common directory-service dependencies
-- Probes LDAP listener availability with structured results
-- Supports text and JSON output for troubleshooting notes
-- Tested with 54 passing tests and GitHub Actions CI
+---
 
-### [homelab-healthwatch](https://github.com/LazyPanda902/homelab-healthwatch)
-Zero-dependency Python CLI for Raspberry Pi homelab container and service monitoring.
+## Featured projects
 
-- Checks Docker container status
-- Probes HTTP endpoints
-- Reads local Linux system metrics from `/proc`
-- Tested with 59 passing tests and GitHub Actions CI
+| Project | What it does | Stack |
+|---|---|---|
+| [ad-health-checker](https://github.com/LazyPanda902/ad-health-checker) | Active Directory DNS, Kerberos, LDAP, and service-port health checks | Python, CLI, IT Support |
+| [supportops-toolkit](https://github.com/LazyPanda902/supportops-toolkit) | IT account auditing and SSH authentication log analysis | Python, Security Ops |
+| [homelab-healthwatch](https://github.com/LazyPanda902/homelab-healthwatch) | Raspberry Pi homelab container and service health checks | Python, Docker, Linux |
 
-### [ticket-triage-assistant](https://github.com/LazyPanda902/ticket-triage-assistant)
-Python CLI for classifying and routing IT support tickets using stdlib-only TF-IDF/cosine-style text matching.
+---
 
-- Classifies incoming tickets by category using a zero-dependency TF-IDF/cosine similarity approach
-- Routes phishing, malware, and suspicious-login tickets through a security-first escalation path
-- Produces text and JSON output with batch statistics for support queue review
-- Tested with 90 passing tests and GitHub Actions CI
+## Tech I use
 
-## Technical Focus
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
 
-- IT support automation
-- Windows, Microsoft 365, and endpoint troubleshooting
-- Active Directory and Entra ID fundamentals
-- Python CLI tools and structured reporting
-- Docker, Linux, and Raspberry Pi homelab operations
-- Security-minded troubleshooting and operational health checks
+---
 
-## What I Am Building Toward
+## Homelab snapshot
 
-I am building a portfolio around practical IT support and junior sysadmin automation: small tools with clear documentation, tests, CI, and realistic support use cases.
+My Raspberry Pi setup is used as a small automation and monitoring server.
 
-Currently improving:
+```text
+Raspberry Pi
+├── Docker services
+├── GitHub portfolio automation
+├── Local LLM experiments
+├── Health checks and backups
+└── Monitoring dashboards
+Current portfolio workflow
+Daily automation
+  └── small commits and repo maintenance
 
-- Linux and Docker administration through homelab projects
-- Python automation for repeatable support workflows
-- Cloud and identity fundamentals for entry-level IT, systems, and cloud support roles
+Weekly automation
+  ├── GitHub issues
+  ├── pull request branches
+  ├── CI checks
+  └── repo polish reports
+GitHub activity
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=LazyPanda902&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" /> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyPanda902&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" /> </p>
+Contact
+GitHub: @LazyPanda902
+LinkedIn: Ali Bidhendi
+
