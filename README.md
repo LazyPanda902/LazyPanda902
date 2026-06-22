@@ -7,17 +7,17 @@
 <img src="https://img.shields.io/badge/CS-UT%20Dallas-22c55e?style=for-the-badge" />
 <img src="https://img.shields.io/badge/IT%20Support-Microsoft%20365-38bdf8?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Homelab-Raspberry%20Pi-a855f7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Automation-GitHub%20Actions-f97316?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-Automation-f97316?style=for-the-badge" />
 
 </div>
 
 ---
 
-## About me
+## About
 
-I’m a Computer Science student at UT Dallas building practical IT, automation, and homelab projects.
+I’m a Computer Science student at UT Dallas focused on IT support, automation, Linux, Docker, and practical infrastructure tooling.
 
-My focus is turning support-work problems into clean tools: health checks, log analysis, repo maintenance, monitoring, and automation workflows.
+I build small, useful projects that turn support and homelab problems into repeatable tools: health checks, log analysis, monitoring, GitHub automation, and service-status reporting.
 
 ---
 
@@ -26,18 +26,18 @@ My focus is turning support-work problems into clean tools: health checks, log a
 <table>
   <tr>
     <th>Project</th>
-    <th>What it does</th>
-    <th>Focus</th>
+    <th>What it shows</th>
+    <th>Stack</th>
   </tr>
   <tr>
     <td><a href="https://github.com/LazyPanda902/ad-health-checker"><b>ad-health-checker</b></a></td>
-    <td>Active Directory DNS, Kerberos, LDAP, and service-port health checks.</td>
-    <td>Python · IT Support · CLI</td>
+    <td>Active Directory style health checks for DNS, Kerberos, LDAP, and service ports.</td>
+    <td>Python · CLI · IT Support</td>
   </tr>
   <tr>
     <td><a href="https://github.com/LazyPanda902/supportops-toolkit"><b>supportops-toolkit</b></a></td>
-    <td>IT account auditing and SSH authentication log analysis.</td>
-    <td>Python · Security Ops · Logs</td>
+    <td>Account auditing and SSH authentication log analysis for support workflows.</td>
+    <td>Python · Logs · Security Ops</td>
   </tr>
   <tr>
     <td><a href="https://github.com/LazyPanda902/homelab-healthwatch"><b>homelab-healthwatch</b></a></td>
@@ -48,7 +48,7 @@ My focus is turning support-work problems into clean tools: health checks, log a
 
 ---
 
-## Tech stack
+## Skills and tools
 
 <div align="center">
 
@@ -58,41 +58,31 @@ My focus is turning support-work problems into clean tools: health checks, log a
 
 ---
 
-## What I’m building now
+## Currently building
 
 <table>
   <tr>
-    <td><b>GitHub portfolio automation</b></td>
-    <td>Daily commits, weekly issues, pull request branches, CI checks, and repo polish reports.</td>
+    <td><b>Pi automation server</b></td>
+    <td>Daily GitHub maintenance, backups, health checks, and dashboard-ready status reports.</td>
   </tr>
   <tr>
-    <td><b>Raspberry Pi control center</b></td>
-    <td>A private dashboard for containers, logs, automations, backups, and system health.</td>
+    <td><b>Portfolio workflow</b></td>
+    <td>Automated commits, issues, PR branches, CI checks, and repo polish reports.</td>
   </tr>
   <tr>
-    <td><b>Support tooling</b></td>
-    <td>Small Python utilities for IT support, account checks, service health, and troubleshooting.</td>
+    <td><b>Private control center</b></td>
+    <td>A future web dashboard for containers, logs, automations, backups, and system health.</td>
   </tr>
 </table>
 
 ---
 
-## Homelab focus
-
-- Docker services and self-hosted monitoring
-- Raspberry Pi automation jobs
-- GitHub profile and repo maintenance
-- Local LLM experiments for simple automation tasks
-- Backup, health-check, and status-report workflows
-
----
-
-## GitHub stats
+## GitHub snapshot
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LazyPanda902&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyPanda902&layout=compact&theme=github_dark&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=LazyPanda902&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="155" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyPanda902&layout=compact&theme=github_dark&hide_border=true" height="155" />
 
 </div>
 
