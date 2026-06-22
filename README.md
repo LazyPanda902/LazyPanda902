@@ -75,16 +75,6 @@ I build small, useful projects that turn support and homelab problems into repea
   </tr>
 </table>
 
----
-
-## GitHub snapshot
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LazyPanda902&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="155" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyPanda902&layout=compact&theme=github_dark&hide_border=true" height="155" />
-
-</div>
 
 ---
 
