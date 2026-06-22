@@ -15,7 +15,8 @@
 
 ## About me
 
-I’m a Computer Science student at UT Dallas building practical IT, automation, and homelab projects.  
+I’m a Computer Science student at UT Dallas building practical IT, automation, and homelab projects.
+
 My focus is turning support-work problems into clean tools: health checks, log analysis, repo maintenance, monitoring, and automation workflows.
 
 ---
@@ -62,7 +63,7 @@ My focus is turning support-work problems into clean tools: health checks, log a
 <table>
   <tr>
     <td><b>GitHub portfolio automation</b></td>
-    <td>Daily commits, weekly issue creation, PR branches, CI checks, and repo polish reports.</td>
+    <td>Daily commits, weekly issues, pull request branches, CI checks, and repo polish reports.</td>
   </tr>
   <tr>
     <td><b>Raspberry Pi control center</b></td>
@@ -101,4 +102,3 @@ My focus is turning support-work problems into clean tools: health checks, log a
 
 - GitHub: [@LazyPanda902](https://github.com/LazyPanda902)
 - LinkedIn: [Ali Bidhendi](https://www.linkedin.com/in/alibidhendi)
-
