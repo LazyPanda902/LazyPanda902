@@ -1,0 +1,35 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.45" stop-color="#07111f"/>
+      <stop offset="1" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="line" x1="120" y1="0" x2="1080" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22c55e"/>
+      <stop offset="0.5" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="26" fill="url(#bg)"/>
+  <path d="M80 250 C220 120, 360 360, 520 180 S830 100, 1120 230" stroke="url(#line)" stroke-width="3" opacity="0.55" filter="url(#glow)"/>
+  <path d="M100 70 H1100" stroke="url(#line)" stroke-width="2" opacity="0.25"/>
+  <path d="M100 250 H1100" stroke="url(#line)" stroke-width="2" opacity="0.25"/>
+
+  <circle cx="980" cy="95" r="60" stroke="#22c55e" stroke-width="3" opacity="0.6"/>
+  <circle cx="1038" cy="178" r="36" stroke="#38bdf8" stroke-width="3" opacity="0.55"/>
+  <circle cx="900" cy="205" r="24" stroke="#a855f7" stroke-width="3" opacity="0.45"/>
+
+  <text x="92" y="120" fill="#e5f2ff" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="800">Ali Bidhendi</text>
+  <text x="96" y="165" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">CS @ UT Dallas · IT Support · Homelab Automation</text>
+  <text x="96" y="205" fill="#67e8f9" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="600">Python · Docker · Linux · GitHub Actions · Raspberry Pi</text>
+  <text x="96" y="245" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="18">Building practical tools for support operations, system checks, and automation workflows.</text>
+</svg>
