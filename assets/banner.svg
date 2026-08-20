@@ -2,14 +2,26 @@
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
       <stop stop-color="#020617"/>
-      <stop offset="0.45" stop-color="#07111f"/>
-      <stop offset="1" stop-color="#0f172a"/>
+      <stop offset="0.48" stop-color="#07111f"/>
+      <stop offset="1" stop-color="#111827"/>
     </linearGradient>
-    <linearGradient id="line" x1="120" y1="0" x2="1080" y2="320" gradientUnits="userSpaceOnUse">
+
+    <linearGradient id="accent" x1="80" y1="70" x2="1110" y2="260" gradientUnits="userSpaceOnUse">
       <stop stop-color="#22c55e"/>
-      <stop offset="0.5" stop-color="#38bdf8"/>
+      <stop offset="0.52" stop-color="#38bdf8"/>
       <stop offset="1" stop-color="#a855f7"/>
     </linearGradient>
+
+    <radialGradient id="orb1" cx="0" cy="0" r="1" gradientTransform="translate(1010 90) rotate(90) scale(90)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38bdf8" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="orb2" cx="0" cy="0" r="1" gradientTransform="translate(900 220) rotate(90) scale(110)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a855f7" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+
     <filter id="glow">
       <feGaussianBlur stdDeviation="4" result="blur"/>
       <feMerge>
@@ -21,15 +33,37 @@
 
   <rect width="1200" height="320" rx="26" fill="url(#bg)"/>
 
-  <path d="M90 245 C250 105, 420 310, 585 160 S855 90, 1120 220" stroke="url(#line)" stroke-width="3" opacity="0.52" filter="url(#glow)"/>
-  <path d="M100 72 H1100" stroke="url(#line)" stroke-width="2" opacity="0.22"/>
-  <path d="M100 250 H1100" stroke="url(#line)" stroke-width="2" opacity="0.18"/>
+  <circle cx="1010" cy="90" r="90" fill="url(#orb1)"/>
+  <circle cx="900" cy="220" r="110" fill="url(#orb2)"/>
 
-  <circle cx="960" cy="98" r="58" stroke="#22c55e" stroke-width="3" opacity="0.62"/>
-  <circle cx="1032" cy="178" r="36" stroke="#38bdf8" stroke-width="3" opacity="0.55"/>
-  <circle cx="888" cy="198" r="22" stroke="#a855f7" stroke-width="3" opacity="0.48"/>
+  <path d="M72 256 C250 118, 408 300, 580 166 S858 88, 1134 220"
+        stroke="url(#accent)"
+        stroke-width="3"
+        opacity="0.58"
+        filter="url(#glow)"/>
 
-  <text x="92" y="123" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="850">Ali Bidhendi</text>
-  <text x="96" y="171" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">CS @ UT Dallas · IT Support · Homelab Automation</text>
-  <text x="96" y="214" fill="#67e8f9" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Python · Docker · Linux · GitHub Actions · Raspberry Pi</text>
+  <path d="M84 74 H1110" stroke="url(#accent)" stroke-width="2" opacity="0.18"/>
+  <path d="M84 250 H1110" stroke="url(#accent)" stroke-width="2" opacity="0.14"/>
+
+  <circle cx="1000" cy="95" r="52" stroke="#22c55e" stroke-width="3" opacity="0.66"/>
+  <circle cx="1066" cy="176" r="34" stroke="#38bdf8" stroke-width="3" opacity="0.58"/>
+  <circle cx="912" cy="206" r="22" stroke="#a855f7" stroke-width="3" opacity="0.52"/>
+
+  <text x="88" y="122"
+        fill="#f8fafc"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="52"
+        font-weight="800">Ali Bidhendi</text>
+
+  <text x="92" y="169"
+        fill="#cbd5e1"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="24"
+        font-weight="600">IT Support · Microsoft 365 · Homelab Automation</text>
+
+  <text x="92" y="214"
+        fill="#67e8f9"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="21"
+        font-weight="700">Windows · Entra ID · Python · Docker · Linux · Raspberry Pi</text>
 </svg>
