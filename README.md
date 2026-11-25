@@ -2,218 +2,63 @@
 
 <img src="assets/banner.svg?v=5" alt="Ali Bidhendi — IT Support, Microsoft 365, and Homelab Automation" width="100%" />
 
-<br><br>
+**IT support · Systems administration · Infrastructure automation**
 
-<img src="https://img.shields.io/badge/IT%20Support-Operations-22c55e?style=for-the-badge" alt="IT Support" />
-<img src="https://img.shields.io/badge/Microsoft%20365-Entra%20ID-38bdf8?style=for-the-badge" alt="Microsoft 365 and Entra ID" />
-<img src="https://img.shields.io/badge/Homelab-Raspberry%20Pi-a855f7?style=for-the-badge" alt="Raspberry Pi Homelab" />
-<img src="https://img.shields.io/badge/Python-Automation-f97316?style=for-the-badge" alt="Python Automation" />
-
-<br><br>
-
-**IT Support · Microsoft 365 · Active Directory · Windows · Linux · Docker · Automation**
-
-📍 Dallas–Fort Worth, Texas
+Dallas–Fort Worth, Texas · [LinkedIn](https://www.linkedin.com/in/alibidhendi)
 
 </div>
 
----
+## About
 
-## 👋 About
+My background is in IT support and computer science, with hands-on experience troubleshooting Windows endpoints, Microsoft 365, Active Directory, account access, VPN connectivity, and hardware and software issues.
 
-I work across **IT support, Microsoft 365, Active Directory, endpoint troubleshooting, Linux, Docker, networking, and automation**.
+I operate a Raspberry Pi 5 homelab and build Python and shell tools for infrastructure diagnostics, incident triage, account review, monitoring, and repeatable administration.
 
-I build practical tools around support operations, infrastructure diagnostics, homelab monitoring, and admin workflows. I also run the infrastructure behind this portfolio on my own Raspberry Pi 5.
+## Featured projects
 
----
+| Project | What it demonstrates |
+|---|---|
+| [Raspberry Pi Homelab](https://github.com/LazyPanda902/raspberry-pi-homelab) | Linux and Docker operations, DNS filtering, monitoring, NVMe storage, backup and recovery procedures |
+| [SupportOps Toolkit](https://github.com/LazyPanda902/supportops-toolkit) | Account-export audits, SSH authentication-log analysis and structured reports |
+| [AD Health Checker](https://github.com/LazyPanda902/ad-health-checker) | DNS resolution and TCP connectivity diagnostics for domain controllers |
+| [Microsoft 365 Support Auditor](https://github.com/LazyPanda902/m365-support-auditor) | Offline review of exported account, MFA, privilege and license records |
+| [WinOps Admin Toolkit](https://github.com/LazyPanda902/winops-admin-toolkit) | Windows service, event-log and disk-usage analysis from exported JSON records |
+| [Ticket Triage Assistant](https://github.com/LazyPanda902/ticket-triage-assistant) | TF-IDF and cosine-similarity classification, urgency assessment and troubleshooting suggestions |
 
-# 🚀 Featured Portfolio
+## Additional tools
 
-## 🖥️ Raspberry Pi Homelab
+| Project | Focus |
+|---|---|
+| [homelab-healthwatch](https://github.com/LazyPanda902/homelab-healthwatch) | Container, HTTP endpoint and host-health checks |
+| [logsentinel-lite](https://github.com/LazyPanda902/logsentinel-lite) | Local log analysis, redaction and structured reports |
+| [dockwatch-lite](https://github.com/LazyPanda902/dockwatch-lite) | Docker socket connectivity, container state and resource statistics |
+| [it-triage-notes](https://github.com/LazyPanda902/it-triage-notes) | Local incident journal and status tracking |
+| [pi-gateway-watch](https://github.com/LazyPanda902/pi-gateway-watch) | TCP/HTTP reachability and Raspberry Pi metrics |
+| [homelab-eneru-3e1d98](https://github.com/LazyPanda902/homelab-eneru-3e1d98) | Offline CPU, memory and disk utilization trends |
 
-[![Repository](https://img.shields.io/badge/View-raspberry--pi--homelab-181717?style=flat-square&logo=github)](https://github.com/LazyPanda902/raspberry-pi-homelab)
+This is a curated selection; older experiments remain in the [repository list](https://github.com/LazyPanda902?tab=repositories).
 
-Linux and Docker infrastructure running on Raspberry Pi hardware with monitoring, DNS filtering, service management, backups, and recovery planning.
+## Infrastructure and automation
 
-`Linux` · `Docker` · `Networking` · `DNS` · `Monitoring` · `Backups`
-
----
-
-## 🧰 supportops-toolkit
-
-[![Repository](https://img.shields.io/badge/View-supportops--toolkit-181717?style=flat-square&logo=github)](https://github.com/LazyPanda902/supportops-toolkit)
-
-IT support operations CLI for account auditing, SSH authentication-log review, and support-ready reporting.
-
-`Python` · `IT Support` · `Logs` · `Automation`
-
----
-
-## 🏢 ad-health-checker
-
-[![Repository](https://img.shields.io/badge/View-ad--health--checker-181717?style=flat-square&logo=github)](https://github.com/LazyPanda902/ad-health-checker)
-
-Active Directory-oriented health checks covering DNS, Kerberos, LDAP, and service connectivity.
-
-`Active Directory` · `DNS` · `Kerberos` · `LDAP` · `Python`
-
----
-
-## ☁️ m365-support-auditor
-
-[![Repository](https://img.shields.io/badge/View-m365--support--auditor-181717?style=flat-square&logo=github)](https://github.com/LazyPanda902/m365-support-auditor)
-
-Microsoft 365 account-review workflows, administrative checks, support notes, and audit reporting.
-
-`Microsoft 365` · `Entra ID` · `Python` · `Support`
-
----
-
-## 🌐 netpath-inspector
-
-[![Repository](https://img.shields.io/badge/View-netpath--inspector-181717?style=flat-square&logo=github)](https://github.com/LazyPanda902/netpath-inspector)
-
-DNS resolution and TCP reachability diagnostics with latency reporting for troubleshooting network paths.
-
-`Networking` · `DNS` · `TCP` · `Diagnostics` · `Python`
-
----
-
-## 📊 homelab-healthwatch
-
-[![Repository](https://img.shields.io/badge/View-homelab--healthwatch-181717?style=flat-square&logo=github)](https://github.com/LazyPanda902/homelab-healthwatch)
-
-Lightweight container and service health monitoring designed for Raspberry Pi and homelab environments.
-
-`Docker` · `Monitoring` · `Linux` · `Python`
-
----
-
-# 🧪 More Projects
-
-### [directory-drift-checker](https://github.com/LazyPanda902/directory-drift-checker)
-Detects added, removed, and changed objects between directory inventory snapshots.
-
-### [defender-readiness-checker](https://github.com/LazyPanda902/defender-readiness-checker)
-Read-only Microsoft Defender readiness analysis from supplied system snapshots.
-
-### [compose-policy-auditor](https://github.com/LazyPanda902/compose-policy-auditor)
-Offline Docker Compose policy and risky-configuration checks.
-
-### [logsentinel-lite](https://github.com/LazyPanda902/logsentinel-lite)
-Local log analysis with redaction, severity rules, and JSON reporting.
-
-### [dockwatch-lite](https://github.com/LazyPanda902/dockwatch-lite)
-Docker container health and resource inspection.
-
-### [it-triage-notes](https://github.com/LazyPanda902/it-triage-notes)
-Structured IT support notes and troubleshooting context.
-
-### [pi-gateway-watch](https://github.com/LazyPanda902/pi-gateway-watch)
-Raspberry Pi gateway and network monitoring.
-
-### [winops-admin-toolkit](https://github.com/LazyPanda902/winops-admin-toolkit)
-Windows administration and support checks.
-
----
-
-# 🛰️ Mission Control
-
-<div align="center">
-
-### 🎛️ [Open Live Mission Control](https://lzp903.duckdns.org)
-
-Public dashboard for the infrastructure and automation behind my portfolio.
-
-![Mission Control](https://img.shields.io/badge/Mission%20Control-LIVE-22c55e?style=for-the-badge)
-![Weekly Pipeline](https://img.shields.io/badge/Weekly%20Pipeline-ACTIVE-38bdf8?style=for-the-badge)
-![Portfolio CI](https://img.shields.io/badge/Portfolio%20CI-GREEN-a855f7?style=for-the-badge)
-
-</div>
-
-I use it to watch automation state, scheduled jobs, repository activity, project generation, CI results, operational telemetry, and infrastructure health.
-
----
-
-# ⚙️ Portfolio System
-
-I built and run the workflow on my Raspberry Pi 5:
+My Raspberry Pi homelab combines Linux, Docker, DNS filtering, monitoring and scheduled maintenance. I use local portfolio automation to support problem discovery, project implementation, testing, quality checks and publication.
 
 ```text
-GitHub discovery
-       ↓
-Candidate selection
-       ↓
-Original project build
-       ↓
-Deterministic quality checks
-       ↓
-Lint + compile + tests
-       ↓
-GitHub publication
-       ↓
-GitHub Actions
-       ↓
-Mission Control
+Problem discovery → selection → implementation
+        → local validation → quality gate → GitHub Actions
 ```
 
-I built the system to avoid duplicate projects, recycled source ideas, stale discovery data, silent generation failures, and silent CI failures.
+The workflow includes checks for repeated core implementations and incomplete test evidence. Automated scores support review; they do not establish production readiness or replace code review.
 
----
+[Mission Control](https://lzp903.duckdns.org) tracks infrastructure and automation status. Individual repository Actions pages report CI results.
 
-# ✅ Current Status
+## Skills and tools
 
-**Historical backlog:** `13 / 13 recovered`
-**Existing portfolio CI:** `10 / 10 green`
-**Weekly pipeline:** `active`
-**Monday build:** `09:00 CDT`
-**Tuesday recovery/discovery:** `10:00 CDT`
-**Active weekly external LLM dependency:** `none`
+| Area | Technologies |
+|---|---|
+| IT support | Windows, Microsoft 365, Active Directory, Microsoft Entra ID, endpoint and account troubleshooting |
+| Infrastructure | Linux, Raspberry Pi, Docker, DNS, TCP/IP, VPNs, monitoring, backups |
+| Development | Python, PowerShell, Bash, Git, GitHub Actions, unit testing |
 
----
+## Contact
 
-# 🛠️ Skills & Tools
-
-<div align="center">
-
-<img
-  src="https://skillicons.dev/icons?i=python,powershell,linux,docker,github,githubactions,bash,vscode,raspberrypi"
-  alt="Python, PowerShell, Linux, Docker, GitHub, GitHub Actions, Bash, VS Code, Raspberry Pi"
-/>
-
-<br><br>
-
-`Microsoft 365` · `Active Directory` · `Entra ID` · `Windows`
-
-`Linux` · `Docker` · `Raspberry Pi` · `Networking`
-
-`Python` · `PowerShell` · `GitHub Actions` · `Automation`
-
-</div>
-
----
-
-# 🔧 Focus Areas
-
-### 🖥️ IT Support
-Windows · Microsoft 365 · Active Directory · Entra ID · Troubleshooting
-
-### 🌐 Infrastructure
-Linux · Docker · Raspberry Pi · DNS · Networking · Monitoring
-
-### ⚙️ Automation
-Python · PowerShell · GitHub Actions · Testing · CI/CD
-
----
-
-# 📫 Contact
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-LazyPanda902-181717?style=for-the-badge&logo=github)](https://github.com/LazyPanda902)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Bidhendi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alibidhendi)
-
-**Dallas–Fort Worth, Texas**
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/alibidhendi) · Dallas–Fort Worth, Texas
